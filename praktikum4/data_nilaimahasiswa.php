@@ -77,8 +77,8 @@
                             <div class="col-6">
                                 <select id="matkul" name="matkul" type="text" class="form-select">
                                 <option value="PILIH"></option>
-                                <option value="JK">Jaringan Komputer</option>
                                 <option value="BD">Basis Data</option>
+                                <option value="JK">Jaringan Komputer</option>
                             </select>
                             </div>
                         </div>
@@ -104,7 +104,7 @@
 
                 </div>
                 <?php
-                require_once "class_nilaimahasiswa.php";
+                require_once "praktikum4/class_nilaimahasiswa.php";
                 if (isset($_POST['proses'])) {
                     $proses = $_POST['proses'];
                     $nim = $_POST['nim'];

@@ -1,5 +1,5 @@
 <?php
-    require_once "class_persegipanjang.php";
+    require_once "praktikum4/class_persegipanjang.php";
     $persegi1 = new PersegiPanjang(10,15);
     $persegi2 = new PersegiPanjang(18,9);
     echo "<br> Luas Persegi Panjang Ke - 1 : " . $persegi1->luasPersegiPanjang();

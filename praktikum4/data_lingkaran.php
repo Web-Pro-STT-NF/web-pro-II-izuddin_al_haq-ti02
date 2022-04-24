@@ -1,5 +1,5 @@
 <?php
-    require_once "class_lingkaran.php";
+    require_once "praktikum4/class_lingkaran.php";
     echo "NILAI PHI : " . Lingkaran::PHI;
     $lingkar1 = new Lingkaran(10);
     $lingkar2 = new Lingkaran(4);

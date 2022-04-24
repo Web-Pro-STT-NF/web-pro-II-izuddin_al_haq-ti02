@@ -1,0 +1,73 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.atas{
+    display: flex;
+
+
+
+}
+.poto{
+    width: 300px;
+    height: 300px;
+    padding-left: 40px;
+}
+
+.profil{
+    padding-left: 40px;
+    font-size: 24px;
+   
+}
+
+#title{
+    font-weight: bold;
+    font-size: 30px;
+
+
+
+}
+
+#title2{
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration: underline;
+
+
+}
+
+.katagori{
+    padding-left: 150px;
+    font-size: 24px;
+    text-align: right;
+
+}
+
+.main{
+    padding-left: 40px;
+    font-size: 20px;
+
+}
+
+.bawah{
+    display: flex;
+    padding-left: 40px;
+
+
+}
+
+.fieldsetimg{
+    width: 200px;
+    height: 132px;
+    margin-left: 70px;
+    padding-left: 40px;
+
+}
+
+.fieldsettext{
+    width: 200px;
+    height: 134px;
+    margin-left: 70px;
+    padding-left: 40px;
+
+}

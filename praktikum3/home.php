@@ -1,5 +1,5 @@
 <?php
-include_once 'atas.php';
+include_once 'praktikum3/atas.php';
 ?>
 <br>
 <h2>
@@ -7,5 +7,5 @@ include_once 'atas.php';
 </h2>
 
 <?php
-require_once 'bawah.php';
+require_once 'praktikum3/bawah.php';
 ?>

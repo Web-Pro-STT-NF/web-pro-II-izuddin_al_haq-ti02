@@ -98,7 +98,7 @@
             </div>
             <div class="row">
                 <?php
-                require_once "class_mahasiswa.php";
+                require_once "praktikum4/class_mahasiswa.php";
 
                 $ns1 = new Mahasiswa("00012", "Septo Suryano", "TI", 2019, 3.9, "Cum Laude");
                 $ns2 = new Mahasiswa("00014", "Zilonk", "SI", 2019, 1.9, "Cukup");

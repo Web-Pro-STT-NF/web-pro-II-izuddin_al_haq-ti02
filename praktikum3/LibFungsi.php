@@ -54,6 +54,6 @@ function predikat_nilai($_grade)
             return "Sangat kurang";
             break;
         default:
-            return "Tidak ada presikat";
+            return "Tidak ada predikat";
     }
 }
